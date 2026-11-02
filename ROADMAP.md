@@ -6,11 +6,13 @@
 - [x] Establish mission, research principles and starter templates
 - [x] Create the remote private repository and push initial files
 
-## Phase 1 — Opportunity discovery (not started)
-- [ ] Collect a broad pool of concrete problems from searchable customer evidence
-- [ ] Document incumbents, pricing, customer pain and likely buyers
-- [ ] Identify a credible acquisition channel for each serious candidate
-- [ ] Shortlist and rank opportunities with evidence quality clearly marked
+## Phase 1 — Opportunity discovery (in progress — started 2026-11-02)
+- [x] Start a broad pool of concrete problems from searchable customer evidence (seven initial candidates; expand and validate)
+- [x] Begin documenting incumbents, pricing, customer pain and likely buyers (initial sweep; deepen)
+- [ ] Verify a credible acquisition channel for each serious candidate (routes hypothesized, not tested)
+- [ ] Complete defensible shortlisting and ranking after deeper evidence (current ordering preliminary)
+
+**Initial research:** [2026-11-02 evidence sweep](research/2026-11-02-initial-opportunity-sweep.md).
 
 **Gate:** select 2–3 problems with observable pain, signs of spending, reachable buyers, and manageable scope.
 
