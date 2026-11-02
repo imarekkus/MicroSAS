@@ -27,6 +27,7 @@ The initial evidence sweep covers seven problem segments. Findings are prelimina
 
 - [`ROADMAP.md`](ROADMAP.md) — project phases and decision gates.
 - [`docs/operating-principles.md`](docs/operating-principles.md) — Hormozi, The Mom Test, offer-first strategy, Build & Growth Factory as future execution.
+- [`opportunity-research` (Codex)](.agents/skills/opportunity-research/SKILL.md) / [`Claude Code`](.claude/skills/opportunity-research/SKILL.md) — repeatable evidence-led market research skill with adversarial checks and validation gates.
 - [`research/README.md`](research/README.md) — research standards and evidence conventions.
 - [`research/2026-11-02-initial-opportunity-sweep.md`](research/2026-11-02-initial-opportunity-sweep.md) — first source-backed discovery sweep with contrary evidence.
 - [`templates/opportunity-scorecard.md`](templates/opportunity-scorecard.md) — reusable opportunity assessment.
