@@ -19,14 +19,16 @@ These are **targets**, not revenue forecasts.
 
 ## Current status
 
-**Phase 0 — Repository foundation completed.** Opportunity discovery has **not started**.
+**Phase 1 — Opportunity discovery underway (started 2026-11-02).**
 
-The next phase is a research backlog followed by rigorous screening and demand validation. No product or technology stack has been selected yet.
+The initial evidence sweep covers seven problem segments. Findings are preliminary; **no interviews, paid pilots, technical feasibility testing or product/stack decisions yet**. Next: deepen the top candidates and test demand directly.
 
 ## Project files
 
 - [`ROADMAP.md`](ROADMAP.md) — project phases and decision gates.
+- [`docs/operating-principles.md`](docs/operating-principles.md) — Hormozi, The Mom Test, offer-first strategy, Build & Growth Factory as future execution.
 - [`research/README.md`](research/README.md) — research standards and evidence conventions.
+- [`research/2026-11-02-initial-opportunity-sweep.md`](research/2026-11-02-initial-opportunity-sweep.md) — first source-backed discovery sweep with contrary evidence.
 - [`templates/opportunity-scorecard.md`](templates/opportunity-scorecard.md) — reusable opportunity assessment.
 - [`templates/customer-interview.md`](templates/customer-interview.md) — non-leading discovery interview prompts.
 - [`docs/decisions.md`](docs/decisions.md) — future decisions and their evidence.
