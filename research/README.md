@@ -1,6 +1,6 @@
 # Opportunity Research
 
-**Status:** Phase 1 underway. First evidence sweep: [2026-11-02](2026-11-02-initial-opportunity-sweep.md). These are unvalidated hypotheses, not approved products.
+**Status:** Phase 1 underway. Research reports: [initial 7-segment sweep](2026-11-02-initial-opportunity-sweep.md) and [12-workflow SWEEP #1](2026-11-02-sweep-12-workflows.md). These are unvalidated hypotheses, not approved products.
 
 ## Evidence standards
 
