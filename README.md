@@ -21,7 +21,7 @@ These are **targets**, not revenue forecasts.
 
 **Phase 1 — Opportunity discovery underway (started 2026-11-02).**
 
-The initial evidence sweep covers seven problem segments. Findings are preliminary; **no interviews, paid pilots, technical feasibility testing or product/stack decisions yet**. Next: deepen the top candidates and test demand directly.
+Research now covers 12 screened narrow workflows, with four preliminary investigation hypotheses and explicit rejection evidence. Findings are preliminary; **no interviews, paid pilots, technical feasibility testing or product/stack decisions yet**. Next: deepen the top candidates and test demand directly.
 
 ## Project files
 
@@ -30,6 +30,7 @@ The initial evidence sweep covers seven problem segments. Findings are prelimina
 - [`opportunity-research` (Codex)](.agents/skills/opportunity-research/SKILL.md) / [`Claude Code`](.claude/skills/opportunity-research/SKILL.md) — repeatable evidence-led market research skill with adversarial checks and validation gates.
 - [`research/README.md`](research/README.md) — research standards and evidence conventions.
 - [`research/2026-11-02-initial-opportunity-sweep.md`](research/2026-11-02-initial-opportunity-sweep.md) — first source-backed discovery sweep with contrary evidence.
+- [`research/2026-11-02-sweep-12-workflows.md`](research/2026-11-02-sweep-12-workflows.md) — skill-driven 12-workflow screen, first-hand signals, competitor prices, adversarial review and interview gates.
 - [`templates/opportunity-scorecard.md`](templates/opportunity-scorecard.md) — reusable opportunity assessment.
 - [`templates/customer-interview.md`](templates/customer-interview.md) — non-leading discovery interview prompts.
 - [`docs/decisions.md`](docs/decisions.md) — future decisions and their evidence.
