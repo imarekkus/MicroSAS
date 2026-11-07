@@ -1,6 +1,6 @@
 # Opportunity Research
 
-**Status:** Phase 1 underway. Research reports: [initial 7-segment sweep](2026-11-02-initial-opportunity-sweep.md) and [12-workflow SWEEP #1](2026-11-02-sweep-12-workflows.md). These are unvalidated hypotheses, not approved products.
+**Status:** Phase 1 underway. Research reports: [initial 7-segment sweep](2026-11-02-initial-opportunity-sweep.md), [12-workflow SWEEP #1](2026-11-02-sweep-12-workflows.md), and [Reddit scan #1 (Nov 7)](2026-11-07-reddit-scan-01.md). [Reddit intake and screening protocol](2026-11-07-reddit-opportunity-intake.md) documents the trigger story and credibility/economics guardrails. These are unvalidated hypotheses, not approved products.
 
 ## Evidence standards
 
